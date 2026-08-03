@@ -423,7 +423,7 @@ The simulation confirmed:
 
 | CAD Model                       | Experimental Setup          |
 | ------------------------------- | --------------------------- |
-| ![](cad/images/fyp_assembly.png) | ![](media/images/setup.jpg) |
+| ![](cad/images/fyp_assembly.PNG) | ![](media/images/setup.jpg) |
 
 | STM32 Circuit                       | Electromagnet Assembly              |
 | ----------------------------------- | ----------------------------------- |
