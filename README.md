@@ -416,11 +416,10 @@ The simulation confirmed:
 
 # Project Gallery
 
-> Replace the placeholders below with images from the `media/images/` directory.
 
 | Prototype                       | AI Detection                            |
 | ------------------------------- | --------------------------------------- |
-| ![](media/images/prototype.jpg) | ![](media/images/terrain_detection.png) |
+| ![](media/images/final-assembly.jpeg) | ![](media/images/terrain_detection.png) |
 
 | CAD Model                       | Experimental Setup          |
 | ------------------------------- | --------------------------- |
