@@ -1,5 +1,5 @@
 # AI-Driven Electromagnetic Adaptive Shock Absorber for Automotive Applications
-  ![](media/images/final-assembly.jpeg)
+  ![](media/images/final-assembly.png)
 ![GitHub](https://img.shields.io/badge/Project-Final%20Year%20Project-blue)
 ![Python](https://img.shields.io/badge/Python-3.x-yellow)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-Ultralytics-red)
@@ -419,7 +419,7 @@ The simulation confirmed:
 
 | Prototype                       | AI Detection                            |
 | ------------------------------- | --------------------------------------- |
-| ![](media/images/final-assembly.jpeg) | ![](media/images/terrain_detection.png) |
+| ![](media/images/final-assembly.png) | ![](media/images/terrain_detection.png) |
 
 | CAD Model                       | Experimental Setup          |
 | ------------------------------- | --------------------------- |
