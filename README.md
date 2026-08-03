@@ -425,9 +425,9 @@ The simulation confirmed:
 | ------------------------------- | --------------------------- |
 | ![](cad/images/fyp_assembly.PNG) | ![](media/images/exset.png) |
 
-| STM32 Circuit                       | Electromagnet Assembly              |
+| Circuit Software                       | Experimental Circuit Hardware              |
 | ----------------------------------- | ----------------------------------- |
-| ![](circuit/schematic.png) | ![](media/images/electromagnet.jpg) |
+| ![](circuit/schematic.png) | ![](media/images/controlcircuithardware.png) |
 
 ---
 
