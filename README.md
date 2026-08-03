@@ -203,7 +203,7 @@ The perception module of the system is implemented on a **Raspberry Pi 5** using
 * Gravel
 * Speed Bump
 
-The Raspberry Pi continuously captures images from the Pi Camera and performs inference in real time. Once a terrain class is identified, the predicted class is transmitted through UART to the STM32 microcontroller.
+The Raspberry Pi continuously captures images from the Pi Camera and performs inference in real time. Once a terrain class is identified, the predicted class is transmitted  to the STM32 microcontroller.
 
 Unlike conventional suspension systems that only react after encountering a disturbance, this approach enables **predictive damping control**, allowing the suspension to prepare before the vehicle reaches the detected terrain.
 
