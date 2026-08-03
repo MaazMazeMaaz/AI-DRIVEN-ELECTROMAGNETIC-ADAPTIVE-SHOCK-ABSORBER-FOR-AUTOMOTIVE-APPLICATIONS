@@ -1,5 +1,20 @@
 # AI-Driven Electromagnetic Adaptive Shock Absorber for Automotive Applications
-  ![](media/images/final-assembly.png)
+
+# Project Gallery
+
+---
+
+| Prototype                       | AI Detection                            |
+| ------------------------------- | --------------------------------------- |
+| ![](media/images/final-assembly.png) | ![](media/images/terrain_detection.png) |
+
+| CAD Model                       | Experimental Setup          |
+| ------------------------------- | --------------------------- |
+| ![](cad/images/fyp_assembly.PNG) | ![](media/images/exset.png) |
+
+| Circuit Software                       | Experimental Circuit Hardware    |
+| ----------------------------------- | ----------------------------------- |
+| ![](circuit/schematic.png) | ![](media/images/controlcircuithardware.png) |
   
 ![GitHub](https://img.shields.io/badge/Project-Final%20Year%20Project-blue)
 ![Python](https://img.shields.io/badge/Python-3.x-yellow)
@@ -412,23 +427,6 @@ The simulation confirmed:
 * Electromagnetic force generation
 * Absence of significant magnetic core saturation
 * Acceptable fringing characteristics
-
----
-
-# Project Gallery
-
-
-| Prototype                       | AI Detection                            |
-| ------------------------------- | --------------------------------------- |
-| ![](media/images/final-assembly.png) | ![](media/images/terrain_detection.png) |
-
-| CAD Model                       | Experimental Setup          |
-| ------------------------------- | --------------------------- |
-| ![](cad/images/fyp_assembly.PNG) | ![](media/images/exset.png) |
-
-| Circuit Software                       | Experimental Circuit Hardware              |
-| ----------------------------------- | ----------------------------------- |
-| ![](circuit/schematic.png) | ![](media/images/controlcircuithardware.png) |
 
 ---
 
